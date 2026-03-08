@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-generativeai
+httpx
+supabase
+xgboost
+numpy
+pandas
+scikit-learn
+lightgbm
+shap
+scipy
+joblib
